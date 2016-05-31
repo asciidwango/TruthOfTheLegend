@@ -8,6 +8,10 @@
 [ここ](TruthOfTheLegend-20160510.pdf)
 に置いておきます。
 
+5/31 の「Unix考古学」の夕べ２の講演資料を
+[ここ](TruthOfTheLegend-20160531.pdf)
+に置いておきます。
+
 「Unix考古学」で紹介している文献のリストを
 [ここ](papers.md)
 に置いておきます。
