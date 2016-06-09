@@ -47,3 +47,15 @@ p. 63, 脚注, 下から2行目
 p. 63, 脚注, 下から1行目  
 誤：\*11: jeffshrager/elizagen [github]：http://elizagen.org/  
 正：\*11: jeffshrager/elizagen [github]：https://github.com/jeffshrager/elizagen/  
+
+p. 102, 下から10行目
+誤：be compatiblewith it.
+正：be compatible with it.
+
+p. 103, 16行目
+誤：with an underscore ' '
+正：with an underscore '_'
+
+p. 103, 17行目
+誤：to reduce the possi-bility of
+正：to reduce the possibility of
