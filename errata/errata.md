@@ -59,3 +59,7 @@ p. 103, 16行目
 p. 103, 17行目
 誤：to reduce the possi-bility of
 正：to reduce the possibility of
+
+p. 142, 下から4行目
+誤：冷戦にからいち早く
+正：冷戦からいち早く
