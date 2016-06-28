@@ -12,6 +12,10 @@
 [ここ](TruthOfTheLegend-20160531.pdf)
 に置いておきます。
 
+6/28 の「Unix考古学」の夕べ in 福岡の講演資料を
+[ここ](TruthOfTheLegend-20160628.pdf)
+に置いておきます。
+
 「Unix考古学」で紹介している文献のリストを
 [ここ](papers.md)
 に置いておきます。
