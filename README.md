@@ -24,6 +24,10 @@
 [ここ](TruthOfTheLegend-20160730.pdf)
 に置いておきます。
 
+11/12 の KOF "Implementation of 4.4BSD luna68k" の講演資料を
+[ここ](TruthOfTheLegend-20161112.pdf)
+に置いておきます。
+
 「Unix考古学」で紹介している文献のリストを
 [ここ](papers.md)
 に置いておきます。
