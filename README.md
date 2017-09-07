@@ -1,36 +1,44 @@
 # Truth of the Legend アフターサービス
 
-2016/05/04 A.Fujita
+2017/09/07 A.Fujita
 
 １２年ぶりの「Unix考古学」いかがだったでしょうか？
 
-5/10 の「Unix考古学」の夕べの講演資料を
+2016/05/10 の「Unix考古学」の夕べの講演資料を
 [ここ](TruthOfTheLegend-20160510.pdf)
 に置いておきます。
 
-5/31 の「Unix考古学」の夕べ２の講演資料を
+2016/05/31 の「Unix考古学」の夕べ２の講演資料を
 [ここ](TruthOfTheLegend-20160531.pdf)
 に置いておきます。
 
-6/28 の「Unix考古学」の夕べ in 福岡の講演資料を
+2016/06/28 の「Unix考古学」の夕べ in 福岡の講演資料を
 [ここ](TruthOfTheLegend-20160628.pdf)
 に置いておきます。
 
-7/23 の「Unix考古学」の夕べ in JUSの講演資料を
+2016/07/23 の「Unix考古学」の夕べ in JUSの講演資料を
 [ここ](TruthOfTheLegend-20160723.pdf)
 に置いておきます。
 
-7/30 の OSCKyoto "Implementation of 4.4BSD luna68k" の講演資料を
+2016/07/30 の OSCKyoto "Implementation of 4.4BSD luna68k" の講演資料を
 [ここ](TruthOfTheLegend-20160730.pdf)
 に置いておきます。
 
-11/12 の KOF "Implementation of 4.4BSD luna68k" の講演資料を
+2016/11/12 の KOF "Implementation of 4.4BSD luna68k" の講演資料を
 [ここ](TruthOfTheLegend-20161112.pdf)
 に置いておきます。
 
 「Unix考古学」で紹介している文献のリストを
 [ここ](papers.md)
 に置いておきます。
+
+今年も博多に呼んでいただきました。
+2017/09/01の"LINE Developer Meetup in Fukuoka"
+『情報セキュリティの考古学』の講演資料を
+[ここ](InformationSecurity-20170901.pdf)
+に置いておきます。
+
+
 
 ## 連載記事の「実習編」の記事
 単行本の「あとがき」に書いたように、
